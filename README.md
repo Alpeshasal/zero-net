@@ -1,8 +1,5 @@
 <h2 align=center>Contract Deployment on Zero Network</h2>
 
-## Contract Deployment
-https://github.com/user-attachments/assets/32cbd0bd-45a4-40f0-a627-355afae551eb
-
 - Alway use Burner wallet to do these type of technical tasks
 - Bridge atleast 0.01 Sepolia ETH to Zero Network via this [bridge](https://bridge.zero.network/)
 - Once you complete bridging to Zero Network, you are now ready to deploy contract on Zero Network
